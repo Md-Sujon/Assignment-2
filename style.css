@@ -21,5 +21,17 @@
 }
 .curd-buy{
     align-items: center;
-    margin-left: 148px;
+    margin-left: 125px;
+}
+.service{
+    height: 100px;
+    width: 100px;
+
+}
+.card-jaket{
+    border: 0px;
+}
+.card-footer-jaket{
+    border-top: 0;
+    background-color: white;
 }
