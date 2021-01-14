@@ -2,7 +2,7 @@
 
 .top-back{
  background: rgba(195, 195, 195, 0.15);
- background-size: 110%;
+ 
  background-size: cover;
 }
 
@@ -33,7 +33,7 @@
 }
 .curd-buy{
   
-    margin-left: 110px;
+    margin-left: 80px;
 }
 .service{
     height: 100px;
@@ -49,9 +49,9 @@
 
 
 .image{
-    height: 300px;
+    height: 350px;
     width: 300px;
-    margin-left: 10px;
+    margin-left: 35px;
     padding-top: 20px;
 }
 
@@ -61,10 +61,10 @@
     background-color: white;
 }
 
-.jack-back{
-    height: 320px;
-    width: 320px;
-    margin: 35px;
+.jack-back {
+    height: 350px;
+    width:378px;
+    margin: 10px;
     border-radius: 15px;
     background-color: rgba(110, 110, 110, 0.13);
 }
