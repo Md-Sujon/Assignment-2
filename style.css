@@ -39,7 +39,7 @@
 .image{
     height: 300px;
     width: 300px;
-    padding-left: 90px;
+    margin-left: 10px;
     padding-top: 20px;
 }
 
@@ -50,9 +50,9 @@
 }
 
 .jack-back{
-    height: 370px;
-    width: 370px;
-    margin: 15px;
+    height: 320px;
+    width: 320px;
+    margin: 35px;
     border-radius: 15px;
     background-color: rgba(110, 110, 110, 0.13);
 }
