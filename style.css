@@ -49,8 +49,8 @@
 
 
 .image{
-    height: 300px;
-    width: 312px;
+    height: 350px;
+    width: 250px;
     margin-left: 35px;
     padding-top: 20px;
 }
@@ -62,9 +62,19 @@
 }
 
 .jack-back {
-    height: 350px;
-    width:378px;
+    height: 370px;
+    width:320px;
     margin: 10px;
     border-radius: 15px;
     background-color: rgba(110, 110, 110, 0.13);
+}
+
+.contact-us{
+    margin-top: 20px;
+    background-color: rgba(110, 110, 110, 0.13);
+}
+
+.contact{
+    margin-top: 30px;
+    padding-top: 125px;
 }
